@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ကျွနု်ပ်၏အပလိကေးရှင်း</string>
+    <string name="but_add">ပေါင်းသည်</string>
+    <string name="but_sub">နူတ်သည်</string>
+    <string name="but_mul">မြှောက်သည်</string>
+    <string name="but_div">စားသည်</string>
+</resources>

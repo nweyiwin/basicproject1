@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/fav_menu"
+    android:title="Favorite"
+    android:icon="@drawable/ic_fav" />
+    <item android:id="@+id/account_menu"
+        android:title="Account"
+        android:icon="@drawable/ic_username"/>
+</menu>

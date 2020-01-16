@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/welcomewidth"
+    android:layout_height="@dimen/welcomeheight"
+    android:background="@color/colorAccent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="@dimen/welcomewidth"
+        android:layout_height="@dimen/textheight"
+        android:text="Welcome"/>
+    <Button
+        android:layout_width="@dimen/welcomewidth"
+        android:layout_height="@dimen/textheight"
+        android:text="Hello"/>
+
+</LinearLayout>
